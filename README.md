@@ -4,6 +4,8 @@
 
 ![NatanPedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=natanpedro&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanpedro)](https://github.com/natanpedro/github-readme-stats)
+
 ## Tecnologias que eu possuo conhecimento
 
 <div style="display: inline_block"><br/>
