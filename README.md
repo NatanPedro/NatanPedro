@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-pedro-veloso-lopes-681b10264)
-
 ![NatanPedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=natanpedro&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanpedro)](https://github.com/natanpedro/github-readme-stats)
