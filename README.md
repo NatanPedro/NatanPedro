@@ -1,60 +1,60 @@
-### 👋 Hello! I'm Natan Lopes
+<div align="center">
 
-## About Me
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003d1a,100:00ff88&height=200&section=header&text=Natan%20Lopes&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20%C2%B7%20Security%20%C2%B7%20DevOps&descAlignY=58&descSize=18&animation=fadeIn)
 
-I am a Systems Analyst with experience in IT infrastructure, technical support, and process automation. I have worked with technologies such as Linux, Active Directory, SQL Server, and scripting languages for operational efficiency. I am currently expanding my knowledge in cloud computing (AWS and Azure), software development, and backend systems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Backend+%26+Security+Engineer;Python+%7C+Cryptography+%7C+DevOps;Docker+%7C+PostgreSQL+%7C+Linux+%7C+AWS+%2F+GCP;Defense+in+Depth+%7C+Zero+Trust+%7C+Secure+by+Design" alt="Typing SVG" />
 
-My background includes practical experience with Python, Java, C#, SQL, and .NET, as well as a strong interest in applying these technologies to solve real-world challenges. I actively pursue continuous learning through professional training and technical certifications in cloud services, development, and data analysis.
+<br/>
 
-I’m passionate about building efficient solutions, supporting technical environments, and growing as a well-rounded IT professional.
+<p>
+  <a href="https://github.com/NatanPedro" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
----
+</div>
 
-### 📈 GitHub Stats
+## 🛡️ Expertise
+
+Pra mim, software não é só código que funciona — é código que **não te trai**. Sou **Engenheiro Backend com obsessão por Segurança e DevOps**: construo sistemas onde a segurança não é um patch no fim, e sim a **fundação e a identidade** do produto. Penso em superfície de ataque antes de pensar em feature e trato cada dado sensível como evidência que não pode vazar.
+
+No backend eu vivo em **Python** — de criptografia aplicada (**AES-256-GCM, scrypt, cofres zero-knowledge**) a ferramentas que detectam segredo vazado antes dele chegar no commit. E não confio só no que escrevo: faço **red-team do meu próprio software**, quebro de propósito (DoS, bypass de redação, adulteração de dados) e só fecho quando a regressão tranca em teste automatizado. É defesa em profundidade na prática, não no slide.
+
+Do outro lado, **DevOps e Infra** são o que transformam isso em realidade que aguenta o tranco: **Docker** pra empacotar sem surpresa, **Linux** como casa, **PostgreSQL** pra dado que precisa durar e **AWS/GCP** pra escalar. Automatizo o que dá pra automatizar e endureço o que sobra. Filosofia simples: **secure by design — nada vaza sem você mandar.**
+
+## ⚙️ Tech Stack
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=natanpedro&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanpedro&layout=compact&theme=tokyonight"/>
-</div>
 
----
+| 🐍 Backend & Security | 🐳 DevOps |
+|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Cryptography](https://img.shields.io/badge/Cryptography-2C3E50?style=flat-square&logo=letsencrypt&logoColor=white) ![AES-256-GCM](https://img.shields.io/badge/AES--256--GCM-1B1F23?style=flat-square) ![Red Team](https://img.shields.io/badge/Red_Team-C0392B?style=flat-square&logo=hackthebox&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
-### 🧰 Tools & Technologies
+| 🗄️ Data & Infra | ☁️ Cloud |
+|:---:|:---:|
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
 
-<div style="display: inline_block"><br/>
-
-<!-- Languages -->
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img alt="VBA" src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<!-- Frameworks & Backend -->
-<img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<!-- Cloud & Infra -->
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img alt="Active Directory" src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-
-<!-- Tools -->
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-<img alt="Office" src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black"/>
-<img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+| 🏛️ Architecture & Practices |
+|:---:|
+| ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-111827?style=flat-square) ![SOLID](https://img.shields.io/badge/SOLID-16A34A?style=flat-square) ![Zero-Trust](https://img.shields.io/badge/Zero--Trust-7C3AED?style=flat-square) ![Defense in Depth](https://img.shields.io/badge/Defense_in_Depth-0F172A?style=flat-square) ![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-B91C1C?style=flat-square) ![Secure by Design](https://img.shields.io/badge/Secure_by_Design-0A66C2?style=flat-square) |
 
 </div>
 
 ---
 
-> _"Have I not commanded you? Be strong and courageous." – Joshua 1:9_
+## 🚀 Currently Iterating
+
+- **Learning:** Zero-Trust, hardening de infraestrutura, observabilidade e IaC (Terraform).
+- **Focus:** Criptografia aplicada, automação de deploy seguro e defesa em profundidade de ponta a ponta.
+
+---
+
+<div align="center">
+
+> *"Secure by design — nada vaza sem você mandar."*
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NatanPedro.NatanPedro)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:003d1a,100:0d1117&height=100&section=footer)
+
+</div>
