@@ -51,8 +51,6 @@ Do outro lado, **DevOps e Infra** são o que transformam isso em realidade que a
 
 <div align="center">
 
-> *"Secure by design — nada vaza sem você mandar."*
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NatanPedro.NatanPedro)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:003d1a,100:0d1117&height=100&section=footer)
