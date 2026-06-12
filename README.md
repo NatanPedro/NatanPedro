@@ -60,18 +60,6 @@ Do outro lado, **DevOps e Infra** são o que transformam isso em realidade que a
 
 </div>
 
-- 🔍 &nbsp; **Sentinela de Segredos** — detecta 30+ tipos de credencial (AWS, GitHub, JWT, chaves PEM…) em tempo real, com modo redação.
-- 🔐 &nbsp; **Cofre `.rdbt`** — AES-256-GCM + scrypt, envelope/key-slots estilo LUKS: múltiplas senhas + arquivo-chave abrem o mesmo cofre.
-- ✍️ &nbsp; **Custódia assinada** — identidade Ed25519 + trilha de auditoria encadeada à prova de adulteração.
-- 🪝 &nbsp; **Hook anti-segredo** — bloqueia `git commit` que tente versionar credencial.
-- 🧪 &nbsp; **Red-team do próprio código** — 177 testes + auditorias adversariais; quebrado de propósito até travar em regressão.
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white) ![QScintilla](https://img.shields.io/badge/QScintilla-1B1F23?style=flat-square) ![Cryptography](https://img.shields.io/badge/Cryptography-2C3E50?style=flat-square&logo=letsencrypt&logoColor=white) ![Ed25519](https://img.shields.io/badge/Ed25519-003d1a?style=flat-square)
-
-</div>
-
 ---
 
 ## 📊 GitHub Stats
