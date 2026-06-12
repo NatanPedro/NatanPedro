@@ -56,12 +56,11 @@ Um editor de texto onde **segurança é a identidade**, não um adendo. Detecta 
 
 </div>
 
-|:---:|:---:|
-| 🔍 | **Sentinela de Segredos** — detecta 30+ tipos de credencial (AWS, GitHub, JWT, chaves PEM…) em tempo real, com modo redação |
-| 🔐 | **Cofre `.rdbt`** — AES-256-GCM + scrypt, envelope/key-slots estilo LUKS: múltiplas senhas + arquivo-chave abrem o mesmo cofre |
-| ✍️ | **Custódia assinada** — identidade Ed25519 + trilha de auditoria encadeada à prova de adulteração |
-| 🪝 | **Hook anti-segredo** — bloqueia `git commit` que tente versionar credencial |
-| 🧪 | **Red-team do próprio código** — 177 testes + auditorias adversariais; quebrado de propósito até travar em regressão |
+- 🔍 &nbsp; **Sentinela de Segredos** — detecta 30+ tipos de credencial (AWS, GitHub, JWT, chaves PEM…) em tempo real, com modo redação.
+- 🔐 &nbsp; **Cofre `.rdbt`** — AES-256-GCM + scrypt, envelope/key-slots estilo LUKS: múltiplas senhas + arquivo-chave abrem o mesmo cofre.
+- ✍️ &nbsp; **Custódia assinada** — identidade Ed25519 + trilha de auditoria encadeada à prova de adulteração.
+- 🪝 &nbsp; **Hook anti-segredo** — bloqueia `git commit` que tente versionar credencial.
+- 🧪 &nbsp; **Red-team do próprio código** — 177 testes + auditorias adversariais; quebrado de propósito até travar em regressão.
 
 <div align="center">
 
