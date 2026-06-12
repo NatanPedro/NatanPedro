@@ -87,30 +87,10 @@ Um editor de texto onde **segurança é a identidade**, não um adendo. Detecta 
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-![trophies](https://github-profile-trophy.vercel.app/?username=NatanPedro&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
 ## 🚀 Currently Iterating
 
 - **Learning:** Zero-Trust, hardening de infraestrutura, observabilidade e IaC (Terraform).
 - **Focus:** Criptografia aplicada, automação de deploy seguro e defesa em profundidade de ponta a ponta.
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/NatanPedro/NatanPedro/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
