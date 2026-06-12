@@ -57,7 +57,6 @@ Um editor de texto onde **segurança é a identidade**, não um adendo. Detecta 
 </div>
 
 |  | |
-|:---:|:---|
 | 🔍 | **Sentinela de Segredos** — detecta 30+ tipos de credencial (AWS, GitHub, JWT, chaves PEM…) em tempo real, com modo redação |
 | 🔐 | **Cofre `.rdbt`** — AES-256-GCM + scrypt, envelope/key-slots estilo LUKS: múltiplas senhas + arquivo-chave abrem o mesmo cofre |
 | ✍️ | **Custódia assinada** — identidade Ed25519 + trilha de auditoria encadeada à prova de adulteração |
