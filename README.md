@@ -46,6 +46,16 @@ Do outro lado, **DevOps e Infra** são o que transformam isso em realidade que a
 
 </div>
 
+<div align="center">
+
+### [🛡️ Redoubt](https://github.com/NatanPedro/Redoubt) — *o editor que trata cada arquivo como evidência*
+
+[![Redoubt](https://img.shields.io/badge/Redoubt-v1.0.0-00ff88?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)](https://github.com/NatanPedro/Redoubt)&nbsp;
+[![License](https://img.shields.io/badge/license-MIT-16A34A?style=for-the-badge&labelColor=0d1117)](https://github.com/NatanPedro/Redoubt/blob/main/LICENSE)&nbsp;
+[![Tests](https://img.shields.io/badge/tests-177_passing-003d1a?style=for-the-badge&labelColor=0d1117)](https://github.com/NatanPedro/Redoubt)
+
+Um editor de texto onde **segurança é a identidade**, não um adendo. Detecta segredo antes de vazar, cifra arquivo como evidência e prova que ninguém o adulterou. *Nada vaza sem você mandar.*
+
 |  | |
 |:---:|:---|
 | 🔍 | **Sentinela de Segredos** — detecta 30+ tipos de credencial (AWS, GitHub, JWT, chaves PEM…) em tempo real, com modo redação |
