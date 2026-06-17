@@ -44,8 +44,6 @@ Do outro lado, **DevOps e Infra** são o que transformam isso em realidade que a
 
 ## 🚩 Featured Project
 
-</div>
-
 <div align="center">
 
 ### [🛡️ Redoubt](https://github.com/NatanPedro/Redoubt) — *o editor que trata cada arquivo como evidência*
@@ -71,6 +69,8 @@ Um editor de texto onde **segurança é a identidade**, não um adendo. Detecta 
 
 </div>
 
+</div>
+
 ---
 
 ## 📊 GitHub Stats
@@ -82,7 +82,7 @@ Um editor de texto onde **segurança é a identidade**, não um adendo. Detecta 
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com/?user=NatanPedro&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
+<img height="165" src="https://streak-stats.demolab.com/?user=NatanPedro&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&v=2" alt="streak" />
 
 </div>
 
