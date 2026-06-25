@@ -50,7 +50,7 @@ Do outro lado, **DevOps e Infra** são o que transformam isso em realidade que a
 
 [![Redoubt](https://img.shields.io/badge/Redoubt-v1.3.0-00ff88?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)](https://github.com/NatanPedro/Redoubt)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-16A34A?style=for-the-badge&labelColor=0d1117)](https://github.com/NatanPedro/Redoubt/blob/main/LICENSE)&nbsp;
-[![Tests](https://img.shields.io/badge/tests-310_passing-003d1a?style=for-the-badge&labelColor=0d1117)](https://github.com/NatanPedro/Redoubt)
+[![Tests](https://img.shields.io/badge/tests-388_passing-003d1a?style=for-the-badge&labelColor=0d1117)](https://github.com/NatanPedro/Redoubt)
 
 Um editor de texto onde **segurança é a identidade**, não um adendo. Detecta segredo antes de vazar, cifra como evidência e **sela** o arquivo pra provar — até *offline* — que ninguém o adulterou. *Nada vaza sem você mandar.*
 
@@ -62,7 +62,8 @@ Um editor de texto onde **segurança é a identidade**, não um adendo. Detecta 
 | 🔏 | **Selo `.rdbt-seal`** — sela qualquer arquivo e prova **origem + integridade offline**, com verificador standalone que embute a chave do autor |
 | ✍️ | **Custódia assinada** — identidade Ed25519 (protegível por senha) + trilha encadeada + âncora anti-reset; release assinado e verificável |
 | 🪝 | **Hook anti-segredo** — bloqueia `git commit` que tente versionar credencial |
-| 🧪 | **Red-team do próprio código** — **310 testes** + auditorias adversariais; quebrado de propósito até travar em regressão |
+| 🧰 | **Ferramentas locais** — codec **Base64/Hex/URL/JWT**, gerador de senha (CSPRNG) e operações de linha, tudo sem sair do editor (sem colar segredo em site) |
+| 🧪 | **Red-team do próprio código** — **388 testes** + auditorias adversariais; quebrado de propósito até travar em regressão |
 
 <div align="center">
 
