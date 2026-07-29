@@ -75,21 +75,6 @@ Um editor de texto onde **segurança é a identidade**, não um adendo. Detecta 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NatanPedro&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanPedro&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8" alt="top langs" />
-
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com/?user=NatanPedro&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&v=2" alt="streak" />
-
-</div>
-
----
-
 ## 🚀 Currently Iterating
 
 - **Learning:** Zero-Trust, hardening de infraestrutura, observabilidade e IaC (Terraform).
